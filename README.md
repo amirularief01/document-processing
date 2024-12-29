@@ -37,7 +37,7 @@ This project is a Python-based tool that extracts text from multiple documents u
    ```
 3. Run the script:
    ```bash
-   python tika_word_parser.py
+   python main.py
    ```
 4. The extracted data will be saved in the specified Word document.
 
